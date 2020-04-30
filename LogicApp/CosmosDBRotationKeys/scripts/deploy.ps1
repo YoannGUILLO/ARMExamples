@@ -2,7 +2,7 @@
 $RGName = "MyResourceGroup"
 $TemplateFile = "https://raw.githubusercontent.com/YoannGUILLO/ARMExamples/LogicApp/CosmosDBRotationKeys/master/azuredeploy.json"
 $TemplateParameterFile = "https://raw.githubusercontent.com/YoannGUILLO/ARMExamples/LogicApp/CosmosDBRotationKeys/master/azuredeploy.parameters.json"
-$KeyVaultName = "MyKeyVault"
+$KeyVaultName = "AZMITT000KV001"
 $KeyVaultResourceGroup = "MyKeyVaultResourceGroup"
 $CreatedBy = (Get-AzContext).Account.Id
 $CreatedDate = (Get-Date).ToUniversalTime().ToString("yyyyMMddTHHmmssZ")
