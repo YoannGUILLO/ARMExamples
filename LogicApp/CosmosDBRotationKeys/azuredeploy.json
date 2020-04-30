@@ -47,9 +47,9 @@
         }
     },
     "variables": {
-        "emailAddressNotification": "yoann.guillo@geneziis.com",
+        "emailAddressNotification": "yourname@yourdomain.com",
         "countryCodeNotification": "33",
-        "phoneNumberNotification": "637922550"
+        "phoneNumberNotification": "611223344"
         },
     "resources": [
         {
